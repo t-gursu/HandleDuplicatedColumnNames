@@ -50,8 +50,14 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
+      "filePath": "FromExcelFilePath.xaml",
+      "uniqueId": "19a87f9d-0da9-4640-b737-0003ba8a6086",
+      "input": [],
+      "output": []
+    },
+    {
       "filePath": "Main.xaml",
-      "uniqueId": "c9eeb46f-37a6-4ce5-854c-e8c1c472caef",
+      "uniqueId": "ba51007b-1e57-4d49-b1c9-ed14fc7261f9",
       "input": [],
       "output": []
     }
