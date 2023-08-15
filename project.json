@@ -1,5 +1,5 @@
 {
-  "name": "HandleDuplicatedExcelColumns",
+  "name": "HandleDuplicatedColumnNames",
   "projectId": "a5087862-8682-4722-ac63-95fb63aec563",
   "description": "Change the duplicated column names.",
   "main": "Main.xaml",
