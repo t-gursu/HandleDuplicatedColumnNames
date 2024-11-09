@@ -1,0 +1,45 @@
+{
+  "DisplayName": "FromExcelFilePath",
+  "Tooltip": "",
+  "HelpLink": null,
+  "Color": "red",
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "ExcelFilePath",
+      "DisplayName": "ExcelFilePath",
+      "Category": null,
+      "Tooltip": "File path of the excel",
+      "Placeholder": "Test.xlsx",
+      "Widget": "TextComposer",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "SheetName",
+      "DisplayName": "SheetName",
+      "Category": null,
+      "Tooltip": "Name of the Excel sheet.",
+      "Placeholder": "Sheet1",
+      "Widget": "TextComposer",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "HeaderRow",
+      "DisplayName": "HeaderRow",
+      "Category": null,
+      "Tooltip": "Row number of the Excel. Rows start from 1.",
+      "Placeholder": "1",
+      "Widget": "Number",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
